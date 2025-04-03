@@ -63,6 +63,4 @@ cd Payload_Repack_Tool
 ```
 
 ## Demo
-【Android payload.bin 打包-哔哩哔哩】 
-
-https://b23.tv/W166gqz
+【Android payload.bin 打包-哔哩哔哩】  https://www.bilibili.com/video/av113170408607840?p=1&unique_k=2333
